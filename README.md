@@ -8,6 +8,7 @@ The Markowitz mean-variance portfolio optimization model aims to balance expecte
 
 ### Contents: 
 #### Code
+- **part0_dataCollection.ipynb:** Pulling Yahoo! Finance stock data for desired dates.
 - **part1_preparingData.m:** Split data into testing and training sets. The target vectors are obtained by solving the Markowitz model.
 - **part2a_sparsifySigma.m:** Sparsification by correlation 
 - **part2b_reducedLSTM:** Getting predictions from the neural network. Reducing test data based on predictions. 
@@ -16,7 +17,7 @@ The Markowitz mean-variance portfolio optimization model aims to balance expecte
 - **part3_portfolioPerformance:**  Numerical testing based on portfolios and optimizer performance. 
 
 #### Data
-- **data/yfinance:** Returns and stock tickers from Yahoo! Finance. 
+- **data/yfinance:** Data returned from Part0
 - **data/full:** Data returned from Part1
 - **data/sparse:** Data returned from Part2a
 - **data/reduced_LSTM:** Data returned from Part2b
