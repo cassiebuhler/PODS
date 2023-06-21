@@ -25,7 +25,7 @@ The Markowitz mean-variance portfolio optimization model aims to balance expecte
 
 #### Results
 - **results/optimizer:** Runtime and iterations for each problem on all 20 instances
-- **results/optimizer/logs:** Logs from solving one of the instances 
+- **results/optimizer/logs:** Logs from optimizer results
 - **results/portfolios:** Runtime and iterations for each problem on all 20 instances**
 
 ---
