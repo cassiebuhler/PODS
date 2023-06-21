@@ -1,4 +1,4 @@
-# Efficient Solution of Portfolio Optimization Problems via Dimension Reduction and Sparsification
+# <ins>P</ins>ortfolio <ins>O</ins>ptimization via <ins>D</ins>imension Reduction and <ins>S</ins>parsification (PODS)
 
 Abstract:
 
